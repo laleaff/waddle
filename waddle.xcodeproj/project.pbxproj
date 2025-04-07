@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		7AFCFF952D93CFCE008DAC88 /* PBXContainerItemProxy */ = {
+		514FF9AC2D928ACA00E33FB3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7AFCFF7C2D93CFCD008DAC88 /* Project object */;
+			containerPortal = 514FF9932D928ACA00E33FB3 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7AFCFF832D93CFCD008DAC88;
-			remoteInfo = waddle;
+			remoteGlobalIDString = 514FF99A2D928ACA00E33FB3;
+			remoteInfo = Waddle;
 		};
-		7AFCFF9F2D93CFCE008DAC88 /* PBXContainerItemProxy */ = {
+		514FF9B62D928ACA00E33FB3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7AFCFF7C2D93CFCD008DAC88 /* Project object */;
+			containerPortal = 514FF9932D928ACA00E33FB3 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7AFCFF832D93CFCD008DAC88;
-			remoteInfo = waddle;
+			remoteGlobalIDString = 514FF99A2D928ACA00E33FB3;
+			remoteInfo = Waddle;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7AFCFF842D93CFCD008DAC88 /* waddle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = waddle.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7AFCFF942D93CFCE008DAC88 /* waddleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = waddleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7AFCFF9E2D93CFCE008DAC88 /* waddleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = waddleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		514FF99B2D928ACA00E33FB3 /* Waddle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Waddle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		514FF9AB2D928ACA00E33FB3 /* WaddleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WaddleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		514FF9B52D928ACA00E33FB3 /* WaddleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WaddleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7AFCFF862D93CFCD008DAC88 /* waddle */ = {
+		514FF99D2D928ACA00E33FB3 /* Waddle */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = waddle;
+			path = Waddle;
 			sourceTree = "<group>";
 		};
-		7AFCFF972D93CFCE008DAC88 /* waddleTests */ = {
+		514FF9AE2D928ACA00E33FB3 /* WaddleTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = waddleTests;
+			path = WaddleTests;
 			sourceTree = "<group>";
 		};
-		7AFCFFA12D93CFCE008DAC88 /* waddleUITests */ = {
+		514FF9B82D928ACA00E33FB3 /* WaddleUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = waddleUITests;
+			path = WaddleUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7AFCFF812D93CFCD008DAC88 /* Frameworks */ = {
+		514FF9982D928ACA00E33FB3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7AFCFF912D93CFCE008DAC88 /* Frameworks */ = {
+		514FF9A82D928ACA00E33FB3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7AFCFF9B2D93CFCE008DAC88 /* Frameworks */ = {
+		514FF9B22D928ACA00E33FB3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7AFCFF7B2D93CFCD008DAC88 = {
+		514FF9922D928ACA00E33FB3 = {
 			isa = PBXGroup;
 			children = (
-				7AFCFF862D93CFCD008DAC88 /* waddle */,
-				7AFCFF972D93CFCE008DAC88 /* waddleTests */,
-				7AFCFFA12D93CFCE008DAC88 /* waddleUITests */,
-				7AFCFF852D93CFCD008DAC88 /* Products */,
+				514FF99D2D928ACA00E33FB3 /* Waddle */,
+				514FF9AE2D928ACA00E33FB3 /* WaddleTests */,
+				514FF9B82D928ACA00E33FB3 /* WaddleUITests */,
+				514FF99C2D928ACA00E33FB3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7AFCFF852D93CFCD008DAC88 /* Products */ = {
+		514FF99C2D928ACA00E33FB3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7AFCFF842D93CFCD008DAC88 /* waddle.app */,
-				7AFCFF942D93CFCE008DAC88 /* waddleTests.xctest */,
-				7AFCFF9E2D93CFCE008DAC88 /* waddleUITests.xctest */,
+				514FF99B2D928ACA00E33FB3 /* Waddle.app */,
+				514FF9AB2D928ACA00E33FB3 /* WaddleTests.xctest */,
+				514FF9B52D928ACA00E33FB3 /* WaddleUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7AFCFF832D93CFCD008DAC88 /* waddle */ = {
+		514FF99A2D928ACA00E33FB3 /* Waddle */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7AFCFFA82D93CFCE008DAC88 /* Build configuration list for PBXNativeTarget "waddle" */;
+			buildConfigurationList = 514FF9BF2D928ACA00E33FB3 /* Build configuration list for PBXNativeTarget "Waddle" */;
 			buildPhases = (
-				7AFCFF802D93CFCD008DAC88 /* Sources */,
-				7AFCFF812D93CFCD008DAC88 /* Frameworks */,
-				7AFCFF822D93CFCD008DAC88 /* Resources */,
+				514FF9972D928ACA00E33FB3 /* Sources */,
+				514FF9982D928ACA00E33FB3 /* Frameworks */,
+				514FF9992D928ACA00E33FB3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7AFCFF862D93CFCD008DAC88 /* waddle */,
+				514FF99D2D928ACA00E33FB3 /* Waddle */,
 			);
-			name = waddle;
+			name = Waddle;
 			packageProductDependencies = (
 			);
-			productName = waddle;
-			productReference = 7AFCFF842D93CFCD008DAC88 /* waddle.app */;
+			productName = Waddle;
+			productReference = 514FF99B2D928ACA00E33FB3 /* Waddle.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7AFCFF932D93CFCE008DAC88 /* waddleTests */ = {
+		514FF9AA2D928ACA00E33FB3 /* WaddleTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7AFCFFAB2D93CFCE008DAC88 /* Build configuration list for PBXNativeTarget "waddleTests" */;
+			buildConfigurationList = 514FF9C22D928ACA00E33FB3 /* Build configuration list for PBXNativeTarget "WaddleTests" */;
 			buildPhases = (
-				7AFCFF902D93CFCE008DAC88 /* Sources */,
-				7AFCFF912D93CFCE008DAC88 /* Frameworks */,
-				7AFCFF922D93CFCE008DAC88 /* Resources */,
+				514FF9A72D928ACA00E33FB3 /* Sources */,
+				514FF9A82D928ACA00E33FB3 /* Frameworks */,
+				514FF9A92D928ACA00E33FB3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7AFCFF962D93CFCE008DAC88 /* PBXTargetDependency */,
+				514FF9AD2D928ACA00E33FB3 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				7AFCFF972D93CFCE008DAC88 /* waddleTests */,
+				514FF9AE2D928ACA00E33FB3 /* WaddleTests */,
 			);
-			name = waddleTests;
+			name = WaddleTests;
 			packageProductDependencies = (
 			);
-			productName = waddleTests;
-			productReference = 7AFCFF942D93CFCE008DAC88 /* waddleTests.xctest */;
+			productName = WaddleTests;
+			productReference = 514FF9AB2D928ACA00E33FB3 /* WaddleTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7AFCFF9D2D93CFCE008DAC88 /* waddleUITests */ = {
+		514FF9B42D928ACA00E33FB3 /* WaddleUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7AFCFFAE2D93CFCE008DAC88 /* Build configuration list for PBXNativeTarget "waddleUITests" */;
+			buildConfigurationList = 514FF9C52D928ACA00E33FB3 /* Build configuration list for PBXNativeTarget "WaddleUITests" */;
 			buildPhases = (
-				7AFCFF9A2D93CFCE008DAC88 /* Sources */,
-				7AFCFF9B2D93CFCE008DAC88 /* Frameworks */,
-				7AFCFF9C2D93CFCE008DAC88 /* Resources */,
+				514FF9B12D928ACA00E33FB3 /* Sources */,
+				514FF9B22D928ACA00E33FB3 /* Frameworks */,
+				514FF9B32D928ACA00E33FB3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7AFCFFA02D93CFCE008DAC88 /* PBXTargetDependency */,
+				514FF9B72D928ACA00E33FB3 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				7AFCFFA12D93CFCE008DAC88 /* waddleUITests */,
+				514FF9B82D928ACA00E33FB3 /* WaddleUITests */,
 			);
-			name = waddleUITests;
+			name = WaddleUITests;
 			packageProductDependencies = (
 			);
-			productName = waddleUITests;
-			productReference = 7AFCFF9E2D93CFCE008DAC88 /* waddleUITests.xctest */;
+			productName = WaddleUITests;
+			productReference = 514FF9B52D928ACA00E33FB3 /* WaddleUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7AFCFF7C2D93CFCD008DAC88 /* Project object */ = {
+		514FF9932D928ACA00E33FB3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					7AFCFF832D93CFCD008DAC88 = {
+					514FF99A2D928ACA00E33FB3 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					7AFCFF932D93CFCE008DAC88 = {
+					514FF9AA2D928ACA00E33FB3 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 7AFCFF832D93CFCD008DAC88;
+						TestTargetID = 514FF99A2D928ACA00E33FB3;
 					};
-					7AFCFF9D2D93CFCE008DAC88 = {
+					514FF9B42D928ACA00E33FB3 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 7AFCFF832D93CFCD008DAC88;
+						TestTargetID = 514FF99A2D928ACA00E33FB3;
 					};
 				};
 			};
-			buildConfigurationList = 7AFCFF7F2D93CFCD008DAC88 /* Build configuration list for PBXProject "waddle" */;
+			buildConfigurationList = 514FF9962D928ACA00E33FB3 /* Build configuration list for PBXProject "Waddle" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 7AFCFF7B2D93CFCD008DAC88;
+			mainGroup = 514FF9922D928ACA00E33FB3;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 7AFCFF852D93CFCD008DAC88 /* Products */;
+			productRefGroup = 514FF99C2D928ACA00E33FB3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7AFCFF832D93CFCD008DAC88 /* waddle */,
-				7AFCFF932D93CFCE008DAC88 /* waddleTests */,
-				7AFCFF9D2D93CFCE008DAC88 /* waddleUITests */,
+				514FF99A2D928ACA00E33FB3 /* Waddle */,
+				514FF9AA2D928ACA00E33FB3 /* WaddleTests */,
+				514FF9B42D928ACA00E33FB3 /* WaddleUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7AFCFF822D93CFCD008DAC88 /* Resources */ = {
+		514FF9992D928ACA00E33FB3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7AFCFF922D93CFCE008DAC88 /* Resources */ = {
+		514FF9A92D928ACA00E33FB3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7AFCFF9C2D93CFCE008DAC88 /* Resources */ = {
+		514FF9B32D928ACA00E33FB3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7AFCFF802D93CFCD008DAC88 /* Sources */ = {
+		514FF9972D928ACA00E33FB3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7AFCFF902D93CFCE008DAC88 /* Sources */ = {
+		514FF9A72D928ACA00E33FB3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7AFCFF9A2D93CFCE008DAC88 /* Sources */ = {
+		514FF9B12D928ACA00E33FB3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7AFCFF962D93CFCE008DAC88 /* PBXTargetDependency */ = {
+		514FF9AD2D928ACA00E33FB3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7AFCFF832D93CFCD008DAC88 /* waddle */;
-			targetProxy = 7AFCFF952D93CFCE008DAC88 /* PBXContainerItemProxy */;
+			target = 514FF99A2D928ACA00E33FB3 /* Waddle */;
+			targetProxy = 514FF9AC2D928ACA00E33FB3 /* PBXContainerItemProxy */;
 		};
-		7AFCFFA02D93CFCE008DAC88 /* PBXTargetDependency */ = {
+		514FF9B72D928ACA00E33FB3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7AFCFF832D93CFCD008DAC88 /* waddle */;
-			targetProxy = 7AFCFF9F2D93CFCE008DAC88 /* PBXContainerItemProxy */;
+			target = 514FF99A2D928ACA00E33FB3 /* Waddle */;
+			targetProxy = 514FF9B62D928ACA00E33FB3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		7AFCFFA62D93CFCE008DAC88 /* Debug */ = {
+		514FF9BD2D928ACA00E33FB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		7AFCFFA72D93CFCE008DAC88 /* Release */ = {
+		514FF9BE2D928ACA00E33FB3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,15 +388,15 @@
 			};
 			name = Release;
 		};
-		7AFCFFA92D93CFCE008DAC88 /* Debug */ = {
+		514FF9C02D928ACA00E33FB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"waddle/Preview Content\"";
-				DEVELOPMENT_TEAM = CNJ5SCX4VJ;
+				DEVELOPMENT_ASSET_PATHS = "\"Waddle/Preview Content\"";
+				DEVELOPMENT_TEAM = LP5M2W5MRT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -409,7 +409,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = acad.waddle;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Waddle";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -417,15 +417,15 @@
 			};
 			name = Debug;
 		};
-		7AFCFFAA2D93CFCE008DAC88 /* Release */ = {
+		514FF9C12D928ACA00E33FB3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"waddle/Preview Content\"";
-				DEVELOPMENT_TEAM = CNJ5SCX4VJ;
+				DEVELOPMENT_ASSET_PATHS = "\"Waddle/Preview Content\"";
+				DEVELOPMENT_TEAM = LP5M2W5MRT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -438,7 +438,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = acad.waddle;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Waddle";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -446,118 +446,118 @@
 			};
 			name = Release;
 		};
-		7AFCFFAC2D93CFCE008DAC88 /* Debug */ = {
+		514FF9C32D928ACA00E33FB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = CNJ5SCX4VJ;
+				DEVELOPMENT_TEAM = LP5M2W5MRT;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = acad.waddleTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.WaddleTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/waddle.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/waddle";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Waddle.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Waddle";
 			};
 			name = Debug;
 		};
-		7AFCFFAD2D93CFCE008DAC88 /* Release */ = {
+		514FF9C42D928ACA00E33FB3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = CNJ5SCX4VJ;
+				DEVELOPMENT_TEAM = LP5M2W5MRT;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = acad.waddleTests;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.WaddleTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/waddle.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/waddle";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Waddle.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Waddle";
 			};
 			name = Release;
 		};
-		7AFCFFAF2D93CFCE008DAC88 /* Debug */ = {
+		514FF9C62D928ACA00E33FB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = CNJ5SCX4VJ;
+				DEVELOPMENT_TEAM = LP5M2W5MRT;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = acad.waddleUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.WaddleUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = waddle;
+				TEST_TARGET_NAME = Waddle;
 			};
 			name = Debug;
 		};
-		7AFCFFB02D93CFCE008DAC88 /* Release */ = {
+		514FF9C72D928ACA00E33FB3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = CNJ5SCX4VJ;
+				DEVELOPMENT_TEAM = LP5M2W5MRT;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = acad.waddleUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.WaddleUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = waddle;
+				TEST_TARGET_NAME = Waddle;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7AFCFF7F2D93CFCD008DAC88 /* Build configuration list for PBXProject "waddle" */ = {
+		514FF9962D928ACA00E33FB3 /* Build configuration list for PBXProject "Waddle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7AFCFFA62D93CFCE008DAC88 /* Debug */,
-				7AFCFFA72D93CFCE008DAC88 /* Release */,
+				514FF9BD2D928ACA00E33FB3 /* Debug */,
+				514FF9BE2D928ACA00E33FB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7AFCFFA82D93CFCE008DAC88 /* Build configuration list for PBXNativeTarget "waddle" */ = {
+		514FF9BF2D928ACA00E33FB3 /* Build configuration list for PBXNativeTarget "Waddle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7AFCFFA92D93CFCE008DAC88 /* Debug */,
-				7AFCFFAA2D93CFCE008DAC88 /* Release */,
+				514FF9C02D928ACA00E33FB3 /* Debug */,
+				514FF9C12D928ACA00E33FB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7AFCFFAB2D93CFCE008DAC88 /* Build configuration list for PBXNativeTarget "waddleTests" */ = {
+		514FF9C22D928ACA00E33FB3 /* Build configuration list for PBXNativeTarget "WaddleTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7AFCFFAC2D93CFCE008DAC88 /* Debug */,
-				7AFCFFAD2D93CFCE008DAC88 /* Release */,
+				514FF9C32D928ACA00E33FB3 /* Debug */,
+				514FF9C42D928ACA00E33FB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7AFCFFAE2D93CFCE008DAC88 /* Build configuration list for PBXNativeTarget "waddleUITests" */ = {
+		514FF9C52D928ACA00E33FB3 /* Build configuration list for PBXNativeTarget "WaddleUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7AFCFFAF2D93CFCE008DAC88 /* Debug */,
-				7AFCFFB02D93CFCE008DAC88 /* Release */,
+				514FF9C62D928ACA00E33FB3 /* Debug */,
+				514FF9C72D928ACA00E33FB3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7AFCFF7C2D93CFCD008DAC88 /* Project object */;
+	rootObject = 514FF9932D928ACA00E33FB3 /* Project object */;
 }

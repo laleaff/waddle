@@ -1,14 +1,14 @@
 //
-//  waddleTests.swift
-//  waddleTests
+//  WaddleTests.swift
+//  WaddleTests
 //
-//  Created by Alifa Reppawali on 26/03/25.
+//  Created by Vira Fitriyani on 25/03/25.
 //
 
 import Testing
-@testable import waddle
+@testable import Waddle
 
-struct waddleTests {
+struct WaddleTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

@@ -1,13 +1,13 @@
 //
-//  waddleUITests.swift
-//  waddleUITests
+//  WaddleUITests.swift
+//  WaddleUITests
 //
-//  Created by Alifa Reppawali on 26/03/25.
+//  Created by Vira Fitriyani on 25/03/25.
 //
 
 import XCTest
 
-final class waddleUITests: XCTestCase {
+final class WaddleUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
